@@ -4,7 +4,7 @@ Soy un apasionado Productor Musical, Técnico de Sonido y Músico, pero mi curio
 
 ## Mis Intereses y Trayectoria
 
-- 💻 Actualmente, me encuentro inmerso en el emocionante mundo del desarrollo de aplicaciones web utilizando Django.
+- 💻 Actualmente, me encuentro inmerso en el aprendizaje de aplicaciones web con Django.
 - 🤖 También estoy profundamente interesado en el campo de la Inteligencia Artificial y sus aplicaciones.
 - 🎷 Además de mi pasión por la tecnología, trabajo en un club de jazz, donde me encargo del sonido en vivo y de grabar y mezclar a talentosos artistas, en su mayoría del mundo del jazz.
 - 🎹 Inicié mi formación musical en el conservatorio, especializándome en el piano.
@@ -23,6 +23,6 @@ Mi pasión por la programación y la tecnología me ha llevado a buscar proyecto
 
 ¡Me encantaría conectarme contigo y compartir nuestro conocimiento!
 
-- Instagram: [Perfil de Instagram](https://www.instagram.com/josemercado.music/)
+- Instagram: [@josemercado.music](https://www.instagram.com/josemercado.music/)
 
 ¡Hablemos de música, tecnología, programación o cualquier cosa que te apasione! Estoy siempre dispuesto a aprender y colaborar en proyectos emocionantes.
