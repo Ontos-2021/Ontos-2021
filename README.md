@@ -1,28 +1,30 @@
-# ¡Hola, soy José! 👋
+# José Mercado
 
-Soy un apasionado Productor Musical, Técnico de Sonido y Músico, pero mi curiosidad y amor por el aprendizaje me han llevado a explorar el mundo de la programación, la electrónica y la robótica. Me considero un polímata en constante evolución.
+**Desarrollador full stack · Automatización e IA aplicada · Ingeniero de audio**
 
-## Mis Intereses y Trayectoria
+En **MMJ Systems** desarrollo software para equipos que trabajan entre planillas, documentos y sistemas. Me interesa entender cómo se hace el trabajo en la práctica y llevar la solución desde el diseño hasta el despliegue.
 
-- 💻 Actualmente, me encuentro inmerso en el aprendizaje de aplicaciones web con Django.
-- 🤖 También estoy profundamente interesado en el campo de la Inteligencia Artificial y sus aplicaciones.
-- 🎷 Además de mi pasión por la tecnología, trabajo en un club de jazz, donde me encargo del sonido en vivo y de grabar y mezclar a talentosos artistas, en su mayoría del mundo del jazz.
-- 🎹 Inicié mi formación musical en el conservatorio, especializándome en el piano.
-- 🎧 Estudié Técnico de Sonido y Producción Musical en un instituto terciario, lo que me ha permitido fusionar mi amor por la música con mi conocimiento técnico.
-- 📚 Aunque también exploré el mundo de la informática con un año de estudios en análisis de sistemas, gran parte de mi conocimiento en programación y tecnología ha sido autodidacta.
+[CV y trayectoria](https://github.com/Ontos-2021/jose-mercado-cv) · [MMJ Systems](https://mmjsystems.cl/) · [Contacto profesional](mailto:contacto.mmjsystems@gmail.com)
 
-## Mis Proyectos y Metas
+## En qué estoy trabajando
 
-Mi pasión por la programación y la tecnología me ha llevado a buscar proyectos innovadores y emocionantes:
+- **Documentos e IA.** Estoy desarrollando una herramienta para filtrar licitaciones de Mercado Público y extraer requisitos de sus bases para revisión humana.
+- **Automatización e integraciones.** Conecto sistemas con APIs y scripts. Trabajo con agentes y MCP para integrar herramientas en esos flujos, y exploro modelos que se pueden ejecutar en infraestructura propia.
+- **Telemetría.** Trabajo con monitoreo de redes vía SNMP y experimento con sensores y dispositivos conectados.
 
-- 🤝 Me encantaría colaborar en proyectos de código abierto y DIY (Hazlo Tú Mismo).
-- 🌐 Sueño con diseñar dispositivos creativos con Arduino y conectarlos a Internet para crear soluciones únicas.
-- 🎵 También deseo explorar la programación relacionada con el sonido y desarrollar juegos que combinen mi amor por la música y la tecnología.
+Mi base es **Python, Django y PostgreSQL**. También trabajo con FastAPI, React, Next.js, TypeScript, Linux y Docker.
 
-## Conéctate conmigo
+## Proyectos en GitHub
 
-¡Me encantaría conectarme contigo y compartir nuestro conocimiento!
+| Proyecto | Qué hace |
+| --- | --- |
+| [Calculadora Acústica](https://github.com/Ontos-2021/Calculadora-acustica) | Herramienta de diseño acústico arquitectónico con FastAPI y Next.js. |
+| [Copilot y Codex para GNOME](https://github.com/Ontos-2021/copilot-credit-gnome-extension) | Extensión que muestra el consumo de GitHub Copilot y Codex en la barra superior de GNOME. |
+| [True Peak](https://github.com/Ontos-2021/truepeak) | Analizador web de audio en Flask que mide true peak, sonoridad en LUFS y RMS. |
+| [ESP32 Clima](https://github.com/Ontos-2021/esp32-clima) | Estación meteorológica local con firmware, PCB en KiCad y carcasa imprimible en 3D. |
 
-- Instagram: [@josemercado.music](https://www.instagram.com/josemercado.music/)
+## Audio y música
 
-¡Hablemos de música, tecnología, programación o cualquier cosa que te apasione! Estoy siempre dispuesto a aprender y colaborar en proyectos emocionantes.
+Estudié piano en el Conservatorio Manuel de Falla y me titulé en sonido y producción musical en Tamaba. En Bebop Club trabajé en sonido en vivo y grabación de jazz. En *Vivo en Bebop* me encargué de la grabación y compartí la mezcla y el mastering con Hernán Jacinto.
+
+[Instagram musical](https://www.instagram.com/josemercado.music/)
